@@ -1,0 +1,50 @@
+{
+  "keywords": [
+    {
+      "words": ["hello", "hi", "how are you", "who are you"],
+      "answers": [
+        "Hi there! I am your AI assistant. How can I assist you today?",
+        "Hello! How can I help you?",
+        "Greetings! What can I do for you?",
+        "Hey! How may I be of service?"
+      ]
+    },
+    {
+      "words": ["thank you", "thanks"],
+      "answers": [
+        "You're welcome! I'm here to help.",
+        "No problem! It's my pleasure to assist you.",
+        "You're most welcome!",
+        "Glad I could be of assistance!"
+      ]
+    },
+    {
+      "words": ["goodbye", "bye"],
+      "answers": [
+        "Goodbye! Have a great day!",
+        "Farewell! Take care!",
+        "Goodbye! Feel free to return if you need any further assistance.",
+        "Take care! Goodbye!"
+      ]
+    },
+    {
+      "words": ["help"],
+      "answers": [
+        "Of course! What do you need help with?",
+        "Sure! I'm here to assist. What can I help you with?",
+        "No problem! How can I be of assistance?",
+        "Certainly! Let me know how I can assist you."
+      ]
+    },
+    {
+      "words": ["joke", "tell"],
+      "answers": [
+        "Why don't scientists trust atoms? Because they make up everything!",
+        "Did you hear about the mathematician who's afraid of negative numbers? He'll stop at nothing to avoid them!",
+        "Why don't skeletons fight each other? They don't have the guts!",
+        "I'm reading a book about anti-gravity. It's impossible to put down!"
+      ]
+    }
+  ],
+  "default_answer": "I'm sorry, I didn't understand that. Can you please rephrase or ask a different question?"
+}
